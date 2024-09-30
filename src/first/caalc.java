@@ -25,6 +25,7 @@ public class caalc {
 		// TODO Auto-generated method stub
 	    caalc c=new caalc();
 		System.out.println("sum is"+c.sum(20, 10));
+		System.out.println("sum is"+c.sum(20, 10));
 	}
 
 }
